@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Caesar Z. Li # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ph.D. Student | Department of Biostatistics, UCLA
   <br><br>
-  Second description 
+  Graduate Student Researcher | Department of Human Genetics, School of Medicine, UCLA
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/caesar-z-li-4b36b977/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
