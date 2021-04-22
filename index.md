@@ -1,35 +1,22 @@
-## Portfolio
+## Welcome!
 
 ---
 
-### Category Name 1 
+I am a second year Ph.D. student in [Department of Biostatistics](https://biostat.ucla.edu), at [University of California, Los Angeles](https://www.ucla.edu). I conduct research with Dr. Steve Horvath, [Department of Human Genetics, School of Medicine](https://medschool.ucla.edu/human-genetics), [UCLA](https://www.ucla.edu).
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I am interested in high dimensional statistical models, machine learning algorithms, variable selections, and their applications to DNA methylation data.
 
 ---
 
-### Category Name 2
+### Current Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Epigenetic Predictors of Mammalian Lifespans](/images/mammal_predictors.jpg)
+<img src="images/mammal_predictors.jpg?raw=true"/>
 
 ---
-
-
-
+[Mammalian DNA Methylation Array](https://doi.org/10.1101/2021.01.07.425637)
+<img src="images/chip_paper.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove above link if you don't want to attribute -->
