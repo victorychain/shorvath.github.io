@@ -3,4 +3,4 @@ layout: course
 title: Announcements
 ---
 
-## Coming soon!
+## Drafting cluster Jupyter Notebook tutorial. Coming soon!
