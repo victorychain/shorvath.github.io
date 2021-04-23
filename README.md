@@ -1,51 +1,50 @@
-## Developer Portfolio Landing Page Template
+## Developer Portfolio Landing Page
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+I am a second year Ph.D. student in [Department of Biostatistics](https://biostat.ucla.edu), at [University of California, Los Angeles](https://www.ucla.edu). I conduct research with Dr. Steve Horvath, [Department of Human Genetics, School of Medicine](https://medschool.ucla.edu/human-genetics), [UCLA](https://www.ucla.edu).
 
-<img src="images/demo.gif?raw=true"/>
+I am interested in high dimensional statistical models, machine learning algorithms, variable selections, and their applications to DNA methylation data.
 
-### Installation
+---
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+### Current Projects
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+[Mammalian DNA Methylation Array](https://doi.org/10.1101/2021.01.07.425637)
+<img src="images/chip_paper.png?raw=true"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+[Epigenetic Predictors of Mammalian Lifespans](/images/mammal_predictors.jpg)
+<img src="images/mammal_predictors.jpg?raw=true"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To source R packages that I developed, use devtools package:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Install devtools in R
 
-- Bulleted
-- List
+`install.packages("devtools")`
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Package Link](https://www.r-project.org/nosvn/pandoc/devtools.html) 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [My Github](https://caeseriousli.github.com/).
 
-### Roadmap
+```{r}
+library(devtools)
+install_github("caeseriousli/PACKAGE_NAME")
+```
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
 
-### References
+
+### Personal Website References
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
 <br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
 <br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attribute -->
