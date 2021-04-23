@@ -17,4 +17,4 @@ Readings:
 
 | Number | Workshop | Note |
 |:-----------|:-----------|:------------|
-| 1 | How to Submit R job \[slides: [html](../teaching/Hoffman2Tutorial/submittingJobs.html)\] | Official site:  \[[Hoffman2](https://www.hoffman2.idre.ucla.edu)\] |
+| 1 | How to Submit R job \[slides: [html](../teaching/Hoffman2Tutorial/slides/submittingJobs.html)\] | Official site:  \[[Hoffman2](https://www.hoffman2.idre.ucla.edu)\] |
