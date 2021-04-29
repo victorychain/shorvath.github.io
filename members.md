@@ -21,8 +21,12 @@ Amin Haghani
 <img src="images/josh.jpg?raw=true"/>
 Joshua Zhang
 
+<img src="images/joseph.jpg?raw=true"/>
+Joseph Zoller
+
 <img src="images/caesar.png?raw=true"/>
 Caesar Z. Li
+
 
 Woking on adding the rest..
 
