@@ -46,8 +46,9 @@ a small {
 }
 
 .wrapper {
-  width:1060px;
+  width:860px;
   margin:0 auto;
+  float:left;
 }
 
 blockquote {
@@ -161,7 +162,7 @@ header ul a strong {
 
 section {
   width:550px;
-  float:left;
+  float:right;
   padding-bottom:50px;
 }
 
