@@ -4,16 +4,12 @@ title: Paper Summary
 ---
 
 <center> <h1>Epigenetic predictors of maximum lifespan</h1> </center>
-<center> <h1>of</h1> </center>
-<center> <h1>maximum lifespan</h1> </center>
 <center> <h1>and</h1> </center>
 <center> <h1>other life history traits in mammals</h1> </center>
 
 _You can access gene annotation and mammalian array normalization tools on our Github repository by clicking the link below_
 
-<p align="center">
-[<img src="./images/GitHub-Mark-64px.png">](https://github.com/shorvath/MammalianMethylationConsortium)
-</p>
+[<div style="text-align:center"><img src="./images/GitHub-Mark-64px.png">](https://github.com/shorvath/MammalianMethylationConsortium)
 
 **Abstract**
 
