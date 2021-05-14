@@ -8,7 +8,8 @@ I am a Professor of [Human Genetics](https://medschool.ucla.edu/human-genetics) 
 
 ### Projects
 
-[Projects of Mammalian Methylation Consortium](/projects/maxlifespan/summary.md): article collection by Mammalian Methylation Consortium. These papers are results of a multi-year long effort of a large consortium (about 150 participants) of animal experts from around the world with deep interest in understanding the epigenetic underpinning of aging and development. Such connections could not have been uncovered by the study of any single species, but from a large number of species. Specifically, 192 mammalian species as was the case here. 
+[Link: Mammalian Lifespan Predictor and other Projects of Mammalian Methylation Consortium](/projects/maxlifespan/summary.md):    
+article collection by Mammalian Methylation Consortium. These papers are results of a multi-year long effort of a large consortium (about 150 participants) of animal experts from around the world with deep interest in understanding the epigenetic underpinning of aging and development. Such connections could not have been uncovered by the study of any single species, but from a large number of species. Specifically, 192 mammalian species as was the case here.
 
 <img src="images/mammal_predictors.jpg?raw=true"/>
 
