@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Mammalian Max Lifespan
+title:
 ---
 
 ## Epigenetic predictors of maximum lifespan and other life history traits in mammals
