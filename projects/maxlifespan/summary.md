@@ -9,7 +9,9 @@ title: Paper Summary
 
 _You can access gene annotation and mammalian array normalization tools on our Github repository by clicking the link below_
 
-[<div style="text-align:center"><img src="./images/GitHub-Mark-64px.png"></div>](https://github.com/shorvath/MammalianMethylationConsortium)
+<div id="container">
+[<img src="./images/GitHub-Mark-64px.png">](https://github.com/shorvath/MammalianMethylationConsortium)
+</div>
 
 **Abstract**
 
