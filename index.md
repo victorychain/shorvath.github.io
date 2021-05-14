@@ -8,13 +8,13 @@ I am a Professor of [Human Genetics](https://medschool.ucla.edu/human-genetics) 
 
 ### Projects
 
-**Systems biology and systems genetics**: My group develops and applies methods for analyzing and integrating gene expression-, DNA methylation-, microRNA, genetic marker-, and complex phenotype data. In particular, we developed weighted correlation network analysis (also known as weighted gene co-expression network analysis WGCNA), which is a systems biologic data analysis method for analyzing high dimensional “-omics” data. These methods also lend themselves for comparing different species at the genomic level. A lot of material including articles, R software tutorials, and youtube lectures can be found [here](https://horvath.genetics.ucla.edu/CoexpressionNetwork/). [R package: WGCNA](/https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/)
-<img src="images/wgcna.png?raw=true"/>
+[Epigenetic Predictors of Mammalian Lifespans](/projects/maxlifespan/summary.md)
+<img src="images/mammal_predictors.jpg?raw=true"/>
 
 ---
 
-[Epigenetic Predictors of Mammalian Lifespans](/projects/maxlifespan/maxlifespan_intro.md)
-<img src="images/mammal_predictors.jpg?raw=true"/>
+**Systems biology and systems genetics**: My group develops and applies methods for analyzing and integrating gene expression-, DNA methylation-, microRNA, genetic marker-, and complex phenotype data. In particular, we developed weighted correlation network analysis (also known as weighted gene co-expression network analysis WGCNA), which is a systems biologic data analysis method for analyzing high dimensional “-omics” data. These methods also lend themselves for comparing different species at the genomic level. A lot of material including articles, R software tutorials, and youtube lectures can be found [here](https://horvath.genetics.ucla.edu/CoexpressionNetwork/). [R package: WGCNA](/https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/)
+<img src="images/wgcna.png?raw=true"/>
 
 ---
 
