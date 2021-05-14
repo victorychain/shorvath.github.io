@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Paper Summery
+title: Paper Summary
 ---
 
 ## Epigenetic predictors of maximum lifespan and other life history traits in mammals
